@@ -61,8 +61,10 @@ If you have any questions, please feel free to contact me:
 
 ## Video Walkthrough
 Here is a link to the video walkthrough of the project:
-[Screencastify Video Walkthrough - GET and POST](https://app.screencastify.com/v3/watch/0TakpcNLniOfZxReHRyI)
+[Screencastify Video Walkthrough - GET and POST](https://app.screencastify.com/v3/watch/0TakpcNLniOfZxReHRyI) &
 [Screencastify Video Walkthrough - PUT and Delete](https://app.screencastify.com/v3/watch/ZSrah7ui4UG24L7PlGiU)
+
+-Two videos were added to easily break out the functions to show the proper updates with PUT and DELETE
 
 ## Screenshots
 ![Screenshot of the application](Challenge_13.png)

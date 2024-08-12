@@ -65,7 +65,7 @@ Here is a link to the video walkthrough of the project:
 [Screencastify Video Walkthrough - PUT and Delete](https://app.screencastify.com/v3/watch/ZSrah7ui4UG24L7PlGiU)
 
 ## Screenshots
-![Screenshot of the application]()
+![Screenshot of the application](Challenge 4.png)
 
 ## Future Enhancements
 - Implement user authentication and authorization
